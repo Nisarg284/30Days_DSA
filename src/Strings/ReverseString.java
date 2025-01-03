@@ -1,3 +1,5 @@
+package Strings;
+
 public class ReverseString {
 
     public static String reverseStr(String str)

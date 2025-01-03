@@ -1,3 +1,5 @@
+package Strings;
+
 public class LongestWord {
 
     public static int longestLength(String str)

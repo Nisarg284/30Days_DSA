@@ -1,3 +1,5 @@
+package Strings;
+
 public class CountWords {
 
     public static int countWordsInStr(String str)
