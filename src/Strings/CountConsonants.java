@@ -1,3 +1,5 @@
+package Strings;
+
 public class CountConsonants {
 
     public static int countConsonantsInStr(String str) {
